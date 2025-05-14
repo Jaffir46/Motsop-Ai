@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="11" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-13T22:56:01 IST" name="Default suite" finished-at="2025-05-13T22:58:24 IST" duration-ms="143217">
+    <groups>
+    </groups>
+    <test started-at="2025-05-13T22:56:01 IST" name="Default test" finished-at="2025-05-13T22:58:24 IST" duration-ms="143217">
+      <class name="test.Motsop.SignIn">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:test.Motsop.SignIn@72035809]" started-at="2025-05-13T22:56:01 IST" name="setup" finished-at="2025-05-13T22:56:14 IST" duration-ms="12805" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="EmptyUserEmptyPassword()[pri:0, instance:test.Motsop.SignIn@72035809]" started-at="2025-05-13T22:56:14 IST" name="EmptyUserEmptyPassword" finished-at="2025-05-13T22:56:19 IST" duration-ms="4506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EmptyUserEmptyPassword -->
+        <test-method is-config="true" signature="end()[pri:0, instance:test.Motsop.SignIn@72035809]" started-at="2025-05-13T22:56:19 IST" name="end" finished-at="2025-05-13T22:56:19 IST" duration-ms="485" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:test.Motsop.SignIn@72035809]" started-at="2025-05-13T22:56:19 IST" name="setup" finished-at="2025-05-13T22:56:25 IST" duration-ms="5992" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="EmptyUserValidPassword()[pri:0, instance:test.Motsop.SignIn@72035809]" started-at="2025-05-13T22:56:25 IST" name="EmptyUserValidPassword" finished-at="2025-05-13T22:56:30 IST" duration-ms="4856" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EmptyUserValidPassword -->
+        <test-method is-config="true" signature="end()[pri:0, instance:test.Motsop.SignIn@72035809]" started-at="2025-05-13T22:56:30 IST" name="end" finished-at="2025-05-13T22:56:30 IST" duration-ms="377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:test.Motsop.SignIn@72035809]" started-at="2025-05-13T22:56:30 IST" name="setup" finished-at="2025-05-13T22:56:37 IST" duration-ms="6693" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="InvalidMailInvalidPassword()[pri:0, instance:test.Motsop.SignIn@72035809]" started-at="2025-05-13T22:56:37 IST" name="InvalidMailInvalidPassword" finished-at="2025-05-13T22:56:42 IST" duration-ms="4859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidMailInvalidPassword -->
+        <test-method is-config="true" signature="end()[pri:0, instance:test.Motsop.SignIn@72035809]" started-at="2025-05-13T22:56:42 IST" name="end" finished-at="2025-05-13T22:56:42 IST" duration-ms="422" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:test.Motsop.SignIn@72035809]" started-at="2025-05-13T22:56:42 IST" name="setup" finished-at="2025-05-13T22:56:48 IST" duration-ms="5905" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="InvalidMailValidPassword()[pri:0, instance:test.Motsop.SignIn@72035809]" started-at="2025-05-13T22:56:48 IST" name="InvalidMailValidPassword" finished-at="2025-05-13T22:56:53 IST" duration-ms="5095" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidMailValidPassword -->
+        <test-method is-config="true" signature="end()[pri:0, instance:test.Motsop.SignIn@72035809]" started-at="2025-05-13T22:56:53 IST" name="end" finished-at="2025-05-13T22:56:54 IST" duration-ms="418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:test.Motsop.SignIn@72035809]" started-at="2025-05-13T22:56:54 IST" name="setup" finished-at="2025-05-13T22:57:00 IST" duration-ms="6382" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="InvalidMobileInvalidPassword()[pri:0, instance:test.Motsop.SignIn@72035809]" started-at="2025-05-13T22:57:00 IST" name="InvalidMobileInvalidPassword" finished-at="2025-05-13T22:57:05 IST" duration-ms="4745" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidMobileInvalidPassword -->
+        <test-method is-config="true" signature="end()[pri:0, instance:test.Motsop.SignIn@72035809]" started-at="2025-05-13T22:57:05 IST" name="end" finished-at="2025-05-13T22:57:05 IST" duration-ms="387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:test.Motsop.SignIn@72035809]" started-at="2025-05-13T22:57:05 IST" name="setup" finished-at="2025-05-13T22:57:11 IST" duration-ms="5903" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="InvalidMobileValidPassword1()[pri:0, instance:test.Motsop.SignIn@72035809]" started-at="2025-05-13T22:57:11 IST" name="InvalidMobileValidPassword1" finished-at="2025-05-13T22:57:16 IST" duration-ms="5074" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidMobileValidPassword1 -->
+        <test-method is-config="true" signature="end()[pri:0, instance:test.Motsop.SignIn@72035809]" started-at="2025-05-13T22:57:16 IST" name="end" finished-at="2025-05-13T22:57:17 IST" duration-ms="655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:test.Motsop.SignIn@72035809]" started-at="2025-05-13T22:57:17 IST" name="setup" finished-at="2025-05-13T22:57:23 IST" duration-ms="5713" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="InvalidMobileValidPassword2()[pri:0, instance:test.Motsop.SignIn@72035809]" started-at="2025-05-13T22:57:23 IST" name="InvalidMobileValidPassword2" finished-at="2025-05-13T22:57:27 IST" duration-ms="4723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidMobileValidPassword2 -->
+        <test-method is-config="true" signature="end()[pri:0, instance:test.Motsop.SignIn@72035809]" started-at="2025-05-13T22:57:27 IST" name="end" finished-at="2025-05-13T22:57:28 IST" duration-ms="331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:test.Motsop.SignIn@72035809]" started-at="2025-05-13T22:57:28 IST" name="setup" finished-at="2025-05-13T22:57:33 IST" duration-ms="5833" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="InvalidMobileValidPassword3()[pri:0, instance:test.Motsop.SignIn@72035809]" started-at="2025-05-13T22:57:33 IST" name="InvalidMobileValidPassword3" finished-at="2025-05-13T22:57:39 IST" duration-ms="5197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidMobileValidPassword3 -->
+        <test-method is-config="true" signature="end()[pri:0, instance:test.Motsop.SignIn@72035809]" started-at="2025-05-13T22:57:39 IST" name="end" finished-at="2025-05-13T22:57:39 IST" duration-ms="625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:test.Motsop.SignIn@72035809]" started-at="2025-05-13T22:57:39 IST" name="setup" finished-at="2025-05-13T22:57:45 IST" duration-ms="5722" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ValidMailEmptyPassword()[pri:0, instance:test.Motsop.SignIn@72035809]" started-at="2025-05-13T22:57:45 IST" name="ValidMailEmptyPassword" finished-at="2025-05-13T22:57:50 IST" duration-ms="4910" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidMailEmptyPassword -->
+        <test-method is-config="true" signature="end()[pri:0, instance:test.Motsop.SignIn@72035809]" started-at="2025-05-13T22:57:50 IST" name="end" finished-at="2025-05-13T22:57:50 IST" duration-ms="408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:test.Motsop.SignIn@72035809]" started-at="2025-05-13T22:57:50 IST" name="setup" finished-at="2025-05-13T22:57:56 IST" duration-ms="5722" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ValidMailInvalidPassword()[pri:0, instance:test.Motsop.SignIn@72035809]" started-at="2025-05-13T22:57:56 IST" name="ValidMailInvalidPassword" finished-at="2025-05-13T22:58:01 IST" duration-ms="5011" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidMailInvalidPassword -->
+        <test-method is-config="true" signature="end()[pri:0, instance:test.Motsop.SignIn@72035809]" started-at="2025-05-13T22:58:01 IST" name="end" finished-at="2025-05-13T22:58:01 IST" duration-ms="440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:test.Motsop.SignIn@72035809]" started-at="2025-05-13T22:58:01 IST" name="setup" finished-at="2025-05-13T22:58:07 IST" duration-ms="5884" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ValidMailValidPassword()[pri:0, instance:test.Motsop.SignIn@72035809]" started-at="2025-05-13T22:58:07 IST" name="ValidMailValidPassword" finished-at="2025-05-13T22:58:13 IST" duration-ms="5203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidMailValidPassword -->
+        <test-method is-config="true" signature="end()[pri:0, instance:test.Motsop.SignIn@72035809]" started-at="2025-05-13T22:58:13 IST" name="end" finished-at="2025-05-13T22:58:13 IST" duration-ms="421" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:test.Motsop.SignIn@72035809]" started-at="2025-05-13T22:58:13 IST" name="setup" finished-at="2025-05-13T22:58:19 IST" duration-ms="5930" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validMobileValidPassword()[pri:0, instance:test.Motsop.SignIn@72035809]" started-at="2025-05-13T22:58:19 IST" name="validMobileValidPassword" finished-at="2025-05-13T22:58:24 IST" duration-ms="4966" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1590)
+at org.testng.Assert.assertTrue(Assert.java:57)
+at org.testng.Assert.assertTrue(Assert.java:67)
+at test.Motsop.SignIn.validMobileValidPassword(SignIn.java:31)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validMobileValidPassword -->
+        <test-method is-config="true" signature="end()[pri:0, instance:test.Motsop.SignIn@72035809]" started-at="2025-05-13T22:58:24 IST" name="end" finished-at="2025-05-13T22:58:24 IST" duration-ms="400" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- test.Motsop.SignIn -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
